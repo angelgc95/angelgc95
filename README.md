@@ -6,7 +6,8 @@ My work is focused on logistics, hospitality and STR operations, internal tools,
 
 ## Selected Work
 
-- [Portfolio](https://github.com/angelgc95/angel-andres-portfolio): business-facing portfolio and project case studies
+- [Portfolio](https://skill-deploy-whfztyhlxd-codex-agent-deploys.vercel.app): live site
+- [Portfolio source](https://github.com/angelgc95/angel-andres-portfolio): business-facing portfolio and project case studies
 - [VeneExpress](https://github.com/angelgc95/VeneExpress): shipment intake, tracking, and invoicing platform
 - [Cleaner Manager](https://github.com/angelgc95/cleannermanager): turnover workflows, checklists, hours, and payout visibility for STR teams
 - Hosted by Angel: direct-booking and guest-portal system for a boutique hospitality operation, represented publicly as a case study because the codebase stays private
